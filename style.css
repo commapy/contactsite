@@ -46,6 +46,11 @@ header img {
     border-radius: 8px;
 }
 
+#discord {
+    width: 800px;
+    height: 300px;
+}
+
 #shape {
     background-color: white;
     width: 800px;
@@ -57,12 +62,6 @@ header img {
     margin-bottom: 20px;
 }
 
-#IMG1 {
-    width: 100px;
-    height: 100px;
-    margin-left: -560px;
-}
-
 p {
     text-decoration: none;
     font-family: Verdana;
@@ -70,9 +69,4 @@ p {
     font-weight: bold;
     margin-top: -80px;
     font-style: italic;
-}
-
-#IMG2 {
-    width: 350px;
-    height: 350px;
 }
