@@ -46,6 +46,10 @@ header img {
     border-radius: 8px;
 }
 
+#audio {
+    border-radius: 8px;
+}
+
 #discord {
     width: 979px;
     height: 226;
